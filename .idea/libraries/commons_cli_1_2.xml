@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="commons-cli-1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/NaiveBayesian/lib/commons-cli-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NaiveBayesian/lib/fudannlp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NaiveBayesian/lib/lucene-core-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NaiveBayesian/lib/lucene-queryparser-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NaiveBayesian/lib/trove.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
